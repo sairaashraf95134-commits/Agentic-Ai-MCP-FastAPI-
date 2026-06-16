@@ -1,5 +1,7 @@
 # 🚀 Agentic AI System using MCP + LangGraph + FastAPI
 
+---
+
 ## 🧠 Overview
 
 This project demonstrates a **real-world Agentic AI system** that goes beyond traditional chatbots.
@@ -10,6 +12,7 @@ Instead of only generating text responses, this system can:
 
 It integrates **MCP (Model Context Protocol)** for tool standardization, **LangGraph** for intelligent agent orchestration, and **FastAPI** for deployment.
 
+---
 
 ## 🎯 Why This Project?
 
@@ -71,7 +74,10 @@ MCP Tool Server (mcp_tool_server.py)
 External Tools
    ├── 🌐 SERPAPI (Search)
    ├── 📧 Yagmail (Email)
-   └── ⚙️ Math
+   └── ⚙️ Math Tools
+```
+
+---
 
 ## 🧰 Tech Stack
 
@@ -83,8 +89,7 @@ External Tools
 * 🌐 SERPAPI (Search API)
 * 🔐 Python-dotenv (Environment management)
 
-
-
+---
 
 ## 💡 What I Learned
 
@@ -96,6 +101,7 @@ This project helped me understand:
 * How LangGraph manages decision-making workflows
 * How backend APIs expose AI capabilities
 
+---
 
 ## 🚀 Future Improvements
 
@@ -106,6 +112,7 @@ This project helped me understand:
 * ☁️ Deploy on cloud (Render / AWS)
 * 🖥 Build frontend UI chatbot
 
+---
 
 ## 📌 Why This Project Matters
 
@@ -117,6 +124,7 @@ This project represents a shift from:
 
 It is a step toward **autonomous AI systems capable of real-world actions.**
 
+---
 
 ## 🏷️ Tags
 
@@ -127,4 +135,8 @@ It is a step toward **autonomous AI systems capable of real-world actions.**
 ## ⭐ If you like this project
 
 Give it a ⭐ on GitHub and feel free to fork and improve it!
+
+---
+
+
 
